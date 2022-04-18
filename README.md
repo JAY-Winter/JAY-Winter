@@ -1,5 +1,7 @@
 # JAY-Winter
 
-![gonna be](https://user-images.githubusercontent.com/81538994/138072981-a91a5114-d936-4c43-bd35-43f9afeb9945.png)
+![JAY-Winter's github stats](https://github-readme-stats.vercel.app/api?username=JAY-Winter&show_icons=true)
+[![JAY-Winter's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JAY-Winter&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JAY-Winter)
+
 
 
